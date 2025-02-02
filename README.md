@@ -1,4 +1,4 @@
-# Superheroes Management App
+# Humble Superheroe
 
 This application allows users to manage a list of superheroes. Users can:
 

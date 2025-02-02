@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "lib": ["dom", "es2015"],
+      "allowJs": true,
+      "jsx": "react",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist",
+      "baseUrl": ".",
+      "strict": true
+    },
+    "include": ["src/**/*"]
+  }
+  

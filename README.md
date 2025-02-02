@@ -1,4 +1,4 @@
-# Humble Superheroe
+# Humble Superhero
 
 This application allows users to manage a list of superheroes. Users can:
 
